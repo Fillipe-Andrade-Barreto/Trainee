@@ -7,10 +7,6 @@
     box-sizing: border-box ;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 h2, h4, textarea, p, a {
     font-family: 'Archivo', sans-serif;
 }
